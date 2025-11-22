@@ -1,0 +1,63 @@
+{
+    "Programacion con Python": {
+        "name": "Programacion con Python",
+        "duracion": "one month",
+        "tags": [
+            "programacion",
+            "python",
+            "divertido",
+            "iteresante",
+            "mes",
+            "tendencia",
+            "tecnologia"
+        ]
+    },
+    "literatura": {
+        "name": "literatura",
+        "duracion": "two month",
+        "tags": [
+            "literatura",
+            "libros",
+            "escritores",
+            "escritor",
+            "lectura",
+            "arte"
+        ]
+    },
+    "pasteleria": {
+        "name": "pasteleria",
+        "duracion": "one year",
+        "tags": [
+            "dulces",
+            "reposteria",
+            "azucar",
+            "cocinar",
+            "hogareno",
+            "postres"
+        ]
+    },
+    "karate": {
+        "name": "karate",
+        "duracion": "one year",
+        "tags": [
+            "karate",
+            "lucha",
+            "defensa",
+            "golpear",
+            "deportes",
+            "accion"
+        ]
+    },
+    "yoga": {
+        "name": "yoga",
+        "duracion": "one year",
+        "tags": [
+            "yoga",
+            "deportes",
+            "salud",
+            "ejercicio",
+            "joven",
+            "fitness"
+        ]
+    }
+}
